@@ -6,7 +6,7 @@ CoTrip AI 是一个 AI 协作式旅行规划工作台。它不是一次性生成
 
 ## Live Demo
 
-- 在线演示：待部署到 Vercel 后补充
+- 在线演示：https://co-trip-ai.vercel.app/
 - 本地运行：`http://localhost:3000`
 - 推荐演示脚本：见下方 `Demo Guide`
 
