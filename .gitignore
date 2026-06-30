@@ -15,3 +15,6 @@ node_modules
 .DS_Store
 .dev/
 .pnpm-store/
+
+*.log
+tsconfig.tsbuildinfo
